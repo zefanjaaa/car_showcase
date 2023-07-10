@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 
 
 export const metadata: Metadata = {
-  title: 'Car Rental',
+  title: 'Car Hub',
   description: 'Rent a car with ease!',
 }
 
